@@ -1,0 +1,40 @@
+.img1 {
+  content: url("https://media.istockphoto.com/photos/crystal-photography-ball-showing-the-beauty-of-st-bees-head-picture-id1069276874?k=20&m=1069276874&s=612x612&w=0&h=ciJZ8Sly0xFHRXYlGv6juCXcZK6AIww6EpyqfHr8VSY=");
+}
+
+.img2 {
+  content: url("https://st2.depositphotos.com/1004061/7392/i/600/depositphotos_73926139-stock-photo-red-umbrella-stand-out-from.jpg");
+}
+
+.img3 {
+  content: url("https://images.pexels.com/photos/1556707/pexels-photo-1556707.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+.img4 {
+  content: url("https://cdn.pixabay.com/photo/2020/04/28/23/46/different-nationalities-5106668__340.jpg");
+}
+.img5 {
+  content: url("https://media.istockphoto.com/photos/wooden-cube-flip-with-word-change-to-chance-on-wood-table-personal-picture-id933935036");
+}
+
+img {
+  margin: 10px;
+  border: 5px solid #555;
+  width: 10%;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.selected {
+  border: 5px solid rgb(0, 195, 255);
+}
+
+p {
+  text-align: center;
+}
+
+button {
+  margin: 20px;
+}
